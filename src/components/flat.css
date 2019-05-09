@@ -1,0 +1,32 @@
+.flat {
+  width: 250px;
+  margin: 10px 0;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  position: relative;
+}
+
+.flat-picture {
+  height: 150px;
+  background-size: cover;
+  background-position: center;
+}
+
+.flat-price {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background-color: white;
+  padding: 10px;
+  font-weight: bold;
+  color: black;
+  border-radius: 4px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.flat-title {
+  padding: 20px;
+  font-weight: bold;
+  line-height: 20px;
+  height: 50px;
+}
