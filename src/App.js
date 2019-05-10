@@ -44,7 +44,7 @@ class App extends React.Component {
 
   handleSearch = (event) => {
     const search = event.currentTarget.value;
-    const regex = new RegExp(search)
+    const regex = new RegExp(search,"gi")
     this.setState({
       search: search,
       flatsFiltered: this.state.flats.filter((flat) => regex.test(flat.name))
