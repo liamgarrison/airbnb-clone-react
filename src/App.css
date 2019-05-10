@@ -7,7 +7,7 @@
 .main {
   display: flex;
   justify-content: space-between;
-  width: 60%;
+  width: 50%;
   height: 100%;
   flex-wrap: wrap;
   padding: 20px;
@@ -17,6 +17,6 @@
 }
 
 .map {
-  width: 40%;
+  width: 50%;
   height: 100%;
 }
