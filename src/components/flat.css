@@ -1,5 +1,5 @@
 .flat {
-  flex: 1 1 200px;
+  flex-basis: calc(100% / 2 - 20px);
   margin: 10px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
   border-radius: 4px;

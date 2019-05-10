@@ -9,6 +9,7 @@
   font-size: 14px;
   border-radius: 3px;
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+  position: relative;
 }
 
 .marker p {
@@ -17,6 +18,10 @@
 }
 
 .marker.selected {
-  background-color: red;
+  background-color: #C43931;
   color: white;
+  width: 35px;
+  font-size: 16px;
+    position: relative;
+    z-index: 9999;
 }
