@@ -1,6 +1,6 @@
 # Airbnb Clone (React)
 
-Live version deployed on Netlify [here](https://distracted-liskov-93bb5b.netlify.com/)
+Live version deployed on Netlify [here](https://airbnb-react.netlify.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
